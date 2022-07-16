@@ -1,2 +1,2 @@
-﻿# autor
+autor
 Marco Aurélio
